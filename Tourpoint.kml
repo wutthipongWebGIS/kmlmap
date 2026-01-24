@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Tourpoint" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Tourpoint</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>https://Wutthip.github.io/kmlVR/Marker-P1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Tourpoint</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bampoo.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3367242713463,6.879931047328482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>จุดชมต้นโกงกาง 80 ปี</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมต้นโกงกาง 80 ปี</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมต้นโกงกาง 80 ปี</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mang60y.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3424873735336,6.881195210321474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>จุดเรือจม</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดเรือจม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดเรือจม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.333866352424,6.880200849617346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>เสาแนวยกพลขึ้นบกทหารญี่ปุ่น</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เสาแนวยกพลขึ้นบกทหารญี่ปุ่น</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>เสาแนวยกพลขึ้นบกทหารญี่ปุ่น</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3305900906474,6.8742452676547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>ป้าย Ilove bangpu</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ป้าย Ilove bangpu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>ป้าย Ilove bangpu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bangpoo_label.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3372145152619,6.870796978375025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>จุดปลูกป่าโกงกางตะโละกาโปร์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดปลูกป่าโกงกางตะโละกาโปร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดปลูกป่าโกงกางตะโละกาโปร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mang_datoh.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3374170455886,6.912464827580171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>ท่าเรือตะโละกาโปร์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ท่าเรือตะโละกาโปร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>ท่าเรือตะโละกาโปร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/porttaloh2.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3709967644015,6.894361379219539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>ป้ายสวัสดี</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ป้ายสวัสดี</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>ป้ายสวัสดี</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bung_label.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3691258652326,6.889894701234194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bamtaloh1.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3462939258882,6.891184004921239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>จุดชมนก</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bird.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3362943047536,6.876154731939357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>จุดชมนก</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bird2.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3413048914759,6.885397209151019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>ปาแตเบ็น/จุดชมปลา</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ปาแตเบ็น/จุดชมปลา</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>ปาแตเบ็น/จุดชมปลา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3502009151292,6.904136062722915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>จุดงมหอย</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดงมหอย</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดงมหอย</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3489133584564,6.904790209268732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>จุดงมหอย</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดงมหอย</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดงมหอย</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.348482217975,6.894038732798114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>จุดชมอุโมงค์โกงกาง ตะโละกาโปร์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมอุโมงค์โกงกาง ตะโละกาโปร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมอุโมงค์โกงกาง ตะโละกาโปร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mangtaloh.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3501890444656,6.89270275262306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>อุโมงค์โกงกาง ตะโละกาโปร์</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>อุโมงค์โกงกาง ตะโละกาโปร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>อุโมงค์โกงกาง ตะโละกาโปร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mangtaloh3.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3474259892698,6.905983702156577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>จุดชมนก</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมนก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bird.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3418224870688,6.900729194194288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>อุโมงค์โกงกาง บางปู</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>อุโมงค์โกงกาง บางปู</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>อุโมงค์โกงกาง บางปู</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mang_bangpoo2.jpg"   width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3456157122189,6.876755231758021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>จุดชมอุโมงค์โกงกาง บางปู</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>จุดชมอุโมงค์โกงกาง บางปู</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>จุดชมอุโมงค์โกงกาง บางปู</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/mang_bangpoo.jpg"   width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3462780338382,6.881402191090873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>สุสานเจ้าแม่ลิ้มกอเหนี่ยว</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>สุสานเจ้าแม่ลิ้มกอเหนี่ยว</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>สุสานเจ้าแม่ลิ้มกอเหนี่ยว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3143309939326,6.883443577500532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>ท่าเรือบ้านบานา</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ท่าเรือบ้านบานา</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>ท่าเรือบ้านบานา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/.jpg"  width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.289911910191,6.878178723420963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>เรียนรู้ซั้งไม้ไผ่</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เรียนรู้ซั้งไม้ไผ่</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>เรียนรู้ซั้งไม้ไผ่</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/bamboo_g2.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3396350959736,6.877667328192124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>เรือบ้านบางปูหมู่2</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เรือบ้านบางปูหมู่2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>TypeSurvey</td>
+
+<td>เรือบ้านบางปูหมู่2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>image</td>
+
+<td><img src="https://Wutthip.github.io/kmlVR/img/portpoo2.jpg" width="500" height="350"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>101.3490357353879,6.872087426036476,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
